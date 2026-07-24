@@ -1,0 +1,14 @@
+plugins { id 'com.android.application' }
+
+android {
+    namespace 'com.akpa.hizliokumapro'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'com.akpa.hizliokumapro'
+        minSdk 23
+        targetSdk 35
+        versionCode 10405
+        versionName '10.4.5'
+    }
+}

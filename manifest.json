@@ -1,0 +1,16 @@
+{
+  "name": "Hızlı Okuma Pro",
+  "short_name": "HOP",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#08111f",
+  "theme_color": "#08111f",
+  "description": "Hızlı okuma ve dikkat geliştirme uygulaması",
+  "icons": [
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
